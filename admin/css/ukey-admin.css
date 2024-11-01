@@ -1,0 +1,33 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.uk-main {
+  background-color: #edf1e4;
+  margin-top: 0.75rem;
+  padding: 0.75rem;
+}
+
+.uk-main h2 {
+  color: #376b1f;
+}
+
+.uk-main p {
+  color: rgb(107, 114, 128)
+}
+
+.uk-bg-green-300 {
+  background-color: #d9e8ca;
+}
+
+.uk-bg-green-500 {
+  background-color: #376b1f;
+}
+
+#submit {
+  padding: 0.3rem 0.8rem;
+  border-radius: 0.75rem;
+  color: #fff;
+  background-color: #376b1f;
+}
